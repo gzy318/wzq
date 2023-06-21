@@ -9,3 +9,6 @@ yarn && yarn dev
 
 ### 在线玩
 [https://oss.humwo.com/gomuku/index.html](https://oss.humwo.com/gomuku/index.html)
+
+### 注明
+转载自https://gitee.com/addelete/gomuku
